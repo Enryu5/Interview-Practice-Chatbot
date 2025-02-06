@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a chatbot that can be used as interview partner practice. Made with Streamlit as it interface and employ 2 LLMs API from [together.ai](https://api.together.ai/) for the generative AI, this project is m
+This is a chatbot that can be used as interview partner practice. Made with Streamlit as it interface and employ 2 LLMs API from [together.ai](https://api.together.ai/) for the generative AI, this chatbot has two mode. One is for general type of interview and the other is for live coding type of interview.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
