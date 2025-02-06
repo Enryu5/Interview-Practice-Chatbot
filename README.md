@@ -20,8 +20,8 @@
 
 1. **Clone the repository**:  
    ```sh
-   git clone https://github.com/your-repo/hirehelp.git  
-   cd hirehelp  
+   git clone https://github.com/Enryu5/Interview-Practice-Chatbot.git
+   cd Interview-Practice-Chatbot  
    ```  
 2. **Create a virtual environment** (optional but recommended):  
    ```sh
